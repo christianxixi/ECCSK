@@ -22,9 +22,9 @@ These constellations are distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# Author: Peng Guo
-# Affiliation: Sun Yat-sen University, Guangzhou, China
-# Version: 0.1
-# Upload date: Jul. 20, 2025
-# E-mail: 1340139620@qq.com
+## Author: Peng Guo
+## Affiliation: Sun Yat-sen University, Guangzhou, China
+## Version: 0.1
+## Upload date: Jul. 20, 2025
+## E-mail: 1340139620@qq.com
 # ==========================================================================
