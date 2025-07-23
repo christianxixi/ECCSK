@@ -1,22 +1,16 @@
 # ==========================================================================
-#    This UWOC-JCCESD code is used for the joint channel classification
-#    and estimation with signal detection (JCCESD) scheme in
-#    underwater wireless optical communication (UWOC) systems.
+#    These higher-order modulation ECCSK constellations are used for the joint enhanced
+#    complex colour shift keying with orthogonal frequency division multiplexing (ECCSK-OFDM) 
+#    scheme in visible light communication (VLC) systems.
 #
-#    Copyright (C) <2020>  <Huaiyin Lu>
+#    Copyright (C) <2025>  <Peng Guo>
 #
-#    This program is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU General Public License as published by
-#    the Free Software Foundation, either version 3 of the License, or
-#    (at your option) any later version.
-#
-#    If you use and/or modify this program for further researches and/or
+#    If you use and/or modify these constellations for further researches and/or
 #    applications, please cite the reference paper as follows, which proposes
-#    the JCCESD scheme.
+#    the ECCSK constellations.
 #
-#    H. Lu, M. Jiang, and J. Cheng, ``Deep learning aided robust joint channel
-#    classification, channel estimation, and signal detection for underwater
-#    optical communication'', IEEE Trans. Commun., 2020.
+#    P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex CSK-OFDM System Design for
+#    Visible Light Communication'', IEEE Trans. Commun., 2025.
 #    BibTex: @ARTICLE{Lu2020j-UWOC-JCCESD,
 #    Title={{Deep learning aided robust joint channel classification, channel estimation, and signal detection for underwater optical communication}},
 #    Author={H. Lu and M. Jiang and J. Cheng},
@@ -24,17 +18,13 @@
 #    Year={2020}
 #    }
 #
-#    This program is distributed in the hope that it will be useful,
+#    These constellations are distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU General Public License for more details.
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 #
-#    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-#
-#    Author: Huaiyin Lu
+#    Author: Peng Guo
 #    Affiliation: Sun Yat-sen University, Guangzhou, China
 #    Version: 0.1
-#    Upload date: Dec. 07, 2020
-#    E-mail: 513284310@qq.com
+#    Upload date: Jul. 20, 2025
+#    E-mail: 1340139620@qq.com
 # ==========================================================================
