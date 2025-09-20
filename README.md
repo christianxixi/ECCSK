@@ -10,11 +10,11 @@ applications, please cite the reference paper as follows, which proposes
 the ECCSK constellations.
 
 P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex CSK-OFDM System Design for
-Visible Light Communication'', submitted to IEEE Trans. Wireless Commun., 2025.
+Visible Light Communication'', submitted to IEEE Trans. Commun., 2025.
 BibTex: @ARTICLE{2025-VLC-ECCSK-OFDM,
 Title={{Enhanced complex CSK-OFDM system design for visible light communication}},
 Author={P. Guo and Z. Lin and M. Jiang},
-Journal={{IEEE Trans. Wireless Commun.}},
+Journal={{submitted to IEEE Trans. Commun.}},
 Year={2025}
 }
 
