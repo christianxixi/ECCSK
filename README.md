@@ -10,20 +10,20 @@ applications, please cite the reference paper as follows, which proposes
 the ECCSK constellations.
 
 P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex-valued CSK-OOFDM System for
-Visible Light Communication'', accepted to IEEE Trans. Commun., Feb. 2026.
-BibTex: @ARTICLE{2026-VLC-ECCSK-OOFDM,
-Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},
-Author={P. Guo and Z. Lin and M. Jiang},
-Journal={{IEEE Trans. Commun.}},
-month={Feb.},
-Year={2026},
-}
+Visible Light Communication'', accepted by IEEE Trans. Commun., Feb. 2026.\\
+BibTex: @ARTICLE{2026-VLC-ECCSK-OOFDM,\\
+Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},\\
+Author={P. Guo and Z. Lin and M. Jiang},\\
+Journal={{IEEE Trans. Commun.}},\\
+month={Feb.},\\
+Year={2026},\\
+}\\
 
 These constellations are distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# Author: P. Guo, Z. Lin and M. Jiang
+# Authors: P. Guo, Z. Lin and M. Jiang
 # Affiliation: Sun Yat-sen University, Guangzhou, China
 # Version: 0.1
 # Upload date: Feb. 6, 2026
