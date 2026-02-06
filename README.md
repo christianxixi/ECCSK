@@ -1,6 +1,6 @@
 # =====================================
 These higher-order modulation ECCSK constellations are used for the joint enhanced
-complex color shift keying with orthogonal frequency division multiplexing (ECCSK-OFDM) 
+complex-valued color shift keying with optical orthogonal frequency division multiplexing (ECCSK-OOFDM) 
 scheme in visible light communication (VLC) systems.
 
 Copyright (C) <2025>  <Peng Guo>
@@ -9,20 +9,21 @@ If you use and/or modify these constellations for further researches and/or
 applications, please cite the reference paper as follows, which proposes
 the ECCSK constellations.
 
-P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex CSK-OFDM System Design for
-Visible Light Communication'', submitted to IEEE Trans. Commun., 2025.
-BibTex: @ARTICLE{2025-VLC-ECCSK-OFDM,
-Title={{Enhanced complex CSK-OFDM system design for visible light communication}},
+P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex-valued CSK-OOFDM System for
+Visible Light Communication'', accepted to IEEE Trans. Commun., Feb. 2026.
+BibTex: @ARTICLE{2026-VLC-ECCSK-OOFDM,
+Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},
 Author={P. Guo and Z. Lin and M. Jiang},
-Journal={{submitted to IEEE Trans. Commun.}},
-Year={2025}
+Journal={{IEEE Trans. Commun.}},
+month={Feb.},
+Year={2026},
 }
 
 These constellations are distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# Author: Peng Guo
+# Author: P. Guo, Z. Lin and M. Jiang
 # Affiliation: Sun Yat-sen University, Guangzhou, China
 # Version: 0.1
 # Upload date: Sep. 20, 2025
