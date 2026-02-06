@@ -1,4 +1,4 @@
-# =============================================
+# =====================================
 These higher-order modulation ECCSK constellations are used for the joint enhanced
 complex color shift keying with orthogonal frequency division multiplexing (ECCSK-OFDM) 
 scheme in visible light communication (VLC) systems.
@@ -27,4 +27,4 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 # Version: 0.1
 # Upload date: Sep. 20, 2025
 # E-mail: guop27@mail2.sysu.edu.cn
-# =============================================
+# =====================================
