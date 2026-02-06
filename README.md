@@ -12,12 +12,12 @@ the ECCSK constellations.
 P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex-valued CSK-OOFDM System for
 Visible Light Communication'', accepted by IEEE Trans. Commun., Feb. 2026.<br>
 BibTex: @ARTICLE{2026-VLC-ECCSK-OOFDM,<br>
-Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},\\
-Author={P. Guo and Z. Lin and M. Jiang},\\
-Journal={{IEEE Trans. Commun.}},\\
-month={Feb.},\\
-Year={2026},\\
-}\\
+Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},<br>
+Author={P. Guo and Z. Lin and M. Jiang},<br>
+Journal={{IEEE Trans. Commun.}},<br>
+month={Feb.},<br>
+Year={2026},<br>
+}<br>
 
 These constellations are distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
