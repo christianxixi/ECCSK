@@ -9,8 +9,8 @@ If you use and/or modify these constellations for further researches and/or
 applications, please cite the reference paper as follows, which proposes
 the ECCSK constellations.
 
-P. Guo, Z. Lin and M. Jiang, ''Enhanced Complex-valued CSK-OOFDM System for
-Visible Light Communication'', accepted by IEEE Trans. Commun., Feb. 2026.<br>
+P. Guo, Z. Lin and M. Jiang, ''Enhanced complex-valued CSK-OOFDM system for
+visible light communication'', accepted by IEEE Trans. Commun., Feb. 2026.<br>
 BibTex: @ARTICLE{2026-VLC-ECCSK-OOFDM,<br>
 Title={{Enhanced complex-valued CSK-OOFDM system for visible light communication}},<br>
 Author={P. Guo and Z. Lin and M. Jiang},<br>
